@@ -1,1 +1,1 @@
-# Otakus-Recommendation-System
+# Recommendation System for Otakus
